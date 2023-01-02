@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstroy=self.webpackChunkstroy||[]).push([[53],{5053:function(t,n,s){s.r(n);var e=s(2791),r=s(8820),c=s(4328),u=s(184);n.default=function(){var t=e.useContext(c.A),n=t.cart,s=t.setCartIsVisible;return(0,u.jsxs)("button",{className:"cart-button",onClick:function(){return s(!0)},children:[(0,u.jsx)(r.nxQ,{}),(0,u.jsx)("div",{className:"count",children:n.length})]})}}}]);
+//# sourceMappingURL=53.c90ed37f.chunk.js.map
